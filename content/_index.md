@@ -25,7 +25,7 @@ Hari ke 7 | Bab 11 Visitor Counter dan Bab 12 UCS | 4 Jam
 Anda dapat mencoba demo SLiMS , klik menu Demo diatas
 Login menggunakan akun 
 
-* username **admin**
+* username : **admin**
 * passwod : **admin**
 
 ## SLiMS 
