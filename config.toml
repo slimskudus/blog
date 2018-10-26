@@ -1,0 +1,65 @@
+baseURL = "/"
+
+languageCode = "en-us"
+DefaultContentLanguage = "id"
+title = "Manual SLiMS Kudus"
+theme = "hugo-theme-docdock"
+#themesdir = "../.."
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+defaultContentLanguage = "id"
+defaultContentLanguageInSubdir= false
+enableMissingTranslationPlaceholders = false
+
+
+# [Languages]
+# [Languages.en]
+# title = "Documentation for Hugo docDock"
+# weight = 1
+# languageName = "English"
+# 
+# [Languages.fr]
+# title = "Documentation du thème docDock"
+# weight = 2
+# languageName = "Français"
+
+[params]
+#editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
+showVisitedLinks = true # default is false
+themeStyle = "flex" # "original" or "flex" # default "flex"
+themeVariant = "green" # choose theme variant "green", "gold" , "gray", "blue" (default)
+ordersectionsby = "weight" # ordersectionsby = "title"
+disableHomeIcon = false # default is false
+disableSearch = false # default is false
+disableNavChevron = false # set true to hide next/prev chevron, default is false
+highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
+enableGitInfo = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[[menu.shortcuts]]
+pre = "<h3>Selengkapnya</h3>"
+
+name = "<i class='fa fa-github'></i> <label>Github repo</label>"
+identifier = "ds"
+url = "https://github.com/slims/slims8_akasia"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-cloud-download'></i> <label>Download</label>"
+url = "https://github.com/slims/slims8_akasia/archive/master.zip"
+weight = 11
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-cloud-download'></i> <label>Manual in PDF</label>"
+identifier = "hugodoc"
+url = "https://docs.google.com/uc?export=download&id=11aDb1biPW-bwHbj5aX11baCCXOEta6wc"
+weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-user-plus'></i> <label>SDC</label>"
+url = "/developer"
+weight = 30
