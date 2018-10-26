@@ -21,13 +21,20 @@ Hari ke 6 | Bab 9 Master File dan Bab 10 Tips n Trick | 4 Jam
 Hari ke 7 | Bab 11 Visitor Counter dan Bab 12 UCS | 4 Jam
 **7 hari** | **14 Bab** | **28 Jam**
 
+## Demo SLiMS
+Anda dapat mencoba demo SLiMS , klik menu Demo diatas
+Login menggunakan akun 
+* username **admin**
+* passwod : **admin**
+
+## SLiMS 
 SLiMS _Library Management System_ (SLiMS) adalah _Open Source Software_ (OSS) berbasis web untuk memenuhi kebutuhan automasi perpustakaan (_library automation_) skala kecil hingga skala besar. Dengan fitur yang. dapat dikatakan, lengkap dan masih terus aktif dikembangkan, SLiMS dapat digunakan oleh perpustakaan yang memiliki koleksi, anggota dan staf banyak di lingkungan jaringan, baik itu jaringan lokal (_intranet_) maupun internet.
 
 ![](assets/slims_logo_baru.png)
 
 SLiMS merupakan aplikasi berbasis web dengan pertimbangan _cross-platform_, dapat berjalan dengan baik di atas _platform_ sistem operasi seperti MacOS,MS-Windows, dan GnU/Linux. Sepenuhnya dikembangkan menggunakan perangkat lunak kode sumber terbuka yaitu: PHP _Web Scripting Language_, ([http://www.php.net](www.php.net)) dan MySQL _Database Server_ ([http://www.mysql.com](www.mysql.com)). Untuk meningkatkan interaktifitas agar bisa tampil seperti aplikasi desktop, juga digunakan teknologi AJAX (_Asynchronous JavaScript And XML_). Aplikasi seperti PhpThumb dan Simbio (_development platform_ yang digunakan dan dikembangkan dari proyek Igloo) juga digunakan oleh SLiMS. Karena itu, SLiMS menggunakan Lisensi Publik GnU (GPL) v3 untuk **menjamin kebebasan dalam mendapatkan, memodifikasi dan mendistribusikan kembali** (_rights to use, study, copy, modify, and redistribute computer programs_). Lebih jauh tentang GPLv3 bisa dibaca di [http://www.gnu.org/licenses/gpl-3.0.html](http://www.gnu.org/licenses/gpl-3.0.html).
 
-# Dokumentasi SLiMS Berdasar SLiMS 8.3.1 Akasia
+## Dokumentasi SLiMS Berdasar SLiMS 8.3.1 Akasia
 
 Web ditulis menggunakan [MD MarkDown](https://en.wikipedia.org/wiki/Markdown) . Online menggunakan [Hugo](https://hugo.io) Hugo Static Site Generator v0.49.2 linux/386 BuildDate: 2018-10-11T09:49:19Z
 

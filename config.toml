@@ -60,6 +60,11 @@ url = "https://docs.google.com/uc?export=download&id=11aDb1biPW-bwHbj5aX11baCCXO
 weight = 20
 
 [[menu.shortcuts]]
+name = "<i class='fa fa-globe'></i> <label>Demo</label>"
+url = "https://slims.web.id/demo/"
+weight = 30
+
+[[menu.shortcuts]]
 name = "<i class='fa fa-user-plus'></i> <label>SDC</label>"
 url = "/developer"
-weight = 30
+weight = 40
