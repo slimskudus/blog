@@ -6,7 +6,9 @@ draft: false
 # SLiMS
 
 ## 7 Hari Mahir SLiMS
-Dokumentasi ini saya susun secara meningkat. Bab 0 ada dibawah bab tertinggi di atas. Total ada 14 bab. Setiap hari Anda belajar 2 bab. Baca praktek , baca praktek. Akan cepat memahami jika baca manual. Hindari trial eror tanpa baca manual - nanya ke nanya group - gak dijawab nyinyar nyinyir , kapan maju ha ha ...
+Dokumentasi ini saya susun secara meningkat. Dari yang menantang ke biasa. Nah belajar nya dari yang biasa dulu. Bab 0 ada dibawah bab tertinggi di atas. Total ada 14 bab. Setiap hari Anda belajar 2 bab. Baca praktek , baca praktek. Akan cepat memahami jika baca manual. 
+
+Hindari trial eror tanpa baca manual - nanya ke nanya group - gak dijawab nyinyar nyinyir , kapan maju ha ha ...
 
 Hari Ke | Bab Yang Dipelajari | Alokasi Waktu
 --- | --- | ---
